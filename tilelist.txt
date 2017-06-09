@@ -1,0 +1,8 @@
+images/e0.png
+images/e1.png
+images/g0.png
+images/g1.png
+images/v0.png
+images/v1.png
+images/w0.png
+images/w1.png
